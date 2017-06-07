@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.project;
+package com.project.async;
 
 import com.uber.tchannel.api.ResponseCode;
 import com.uber.tchannel.api.TChannel;

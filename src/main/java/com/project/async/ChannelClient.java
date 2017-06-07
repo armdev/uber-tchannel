@@ -1,4 +1,4 @@
-package com.project;
+package com.project.async;
 
 import com.uber.tchannel.api.SubChannel;
 import com.uber.tchannel.api.TChannel;
